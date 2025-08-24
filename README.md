@@ -24,8 +24,8 @@ WiNDY is an intelligent Discord bot designed to automate daily briefings, task m
 
 1. **Clone the repository:**
 	```sh
-	git clone https://github.com/Programming-Mellow/WiNDY.git
-	cd WiNDY
+	git clone https://github.com/Programming-Mellow/WiNDY-Public.git
+	cd WiNDY-Public
 	```
 
 2. **Install dependencies:**
