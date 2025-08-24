@@ -1,0 +1,12 @@
+discord.py
+scikit-learn
+feedparser
+requests
+python-dotenv
+APScheduler
+datetime
+pandas
+pytest
+pytest-asyncio
+pytest-mock
+pytz
